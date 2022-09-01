@@ -1,1 +1,1 @@
-adds execute permission to the owner and the group owner, but read permission to other users.
+adds execute permission to the user, the group, and other users of betty.
