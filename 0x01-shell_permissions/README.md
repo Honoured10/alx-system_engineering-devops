@@ -1,1 +1,1 @@
-creates an empty file called hello
+gives execute permission to the owner of the file hello
