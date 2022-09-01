@@ -1,1 +1,1 @@
-reference chmod
+directory permission
