@@ -1,1 +1,1 @@
-copies all html files in current directory
+moves all filesbeginning with an uppercase letter to the directory /tmp/u
