@@ -1,1 +1,1 @@
-list all files including hiddeng files in long format
+copies all html files in current directory
