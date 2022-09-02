@@ -1,1 +1,1 @@
-make directory with permissions.
+changes group owner to school
