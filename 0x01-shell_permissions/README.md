@@ -1,1 +1,1 @@
-changes group owner to school
+changes the owner to vincent
