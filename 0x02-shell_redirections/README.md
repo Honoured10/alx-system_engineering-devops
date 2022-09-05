@@ -1,1 +1,1 @@
-creates a Best School file
+prints result of ls -la
