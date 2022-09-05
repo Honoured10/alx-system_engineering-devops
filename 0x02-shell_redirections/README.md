@@ -1,1 +1,1 @@
-duplicates the last line of iacta file
+deletes all .js files
