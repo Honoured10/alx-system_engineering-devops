@@ -1,1 +1,1 @@
-reserves its input
+God is great
