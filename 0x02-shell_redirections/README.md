@@ -1,1 +1,1 @@
-prints result of ls -la
+duplicates the last line of iacta file
