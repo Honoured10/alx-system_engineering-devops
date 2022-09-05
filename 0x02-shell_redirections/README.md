@@ -1,1 +1,1 @@
-prints confused similey
+prints confused smiley
