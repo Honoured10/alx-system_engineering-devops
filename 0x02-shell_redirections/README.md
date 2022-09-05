@@ -1,1 +1,1 @@
-counts the word
+searching is nice
