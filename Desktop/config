@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://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@github.com/Honoured10/alx-system_engineering-devops.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[http]
+	postBuffer = 524288000

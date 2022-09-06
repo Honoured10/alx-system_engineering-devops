@@ -1,0 +1,58 @@
+0000000000000000000000000000000000000000 1ed358c80e089ad06146fba26ddd6ced559f5010 samuel <samuelogunmola4@gmail.com> 1662353307 +0100	clone: from https://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@github.com/Honoured10/alx-system_engineering-devops.git
+1ed358c80e089ad06146fba26ddd6ced559f5010 5d1336cb33963a14ca305acdbb099bebb2752bf6 samuel <samuelogunmola4@gmail.com> 1662395287 +0100	commit: Added 0-hello_world
+5d1336cb33963a14ca305acdbb099bebb2752bf6 064a4e4ccd49690c31f6756505a8cf4b1b6f2357 samuel <samuelogunmola4@gmail.com> 1662395926 +0100	commit: confused similey file aaded
+064a4e4ccd49690c31f6756505a8cf4b1b6f2357 1e2f11de5541670764f9add45a2bb5a8b43cfb9e samuel <samuelogunmola4@gmail.com> 1662396145 +0100	commit: confused similey updated
+1e2f11de5541670764f9add45a2bb5a8b43cfb9e 0daf2c644266c718cdccad1a74f2ff6839deb23e samuel <samuelogunmola4@gmail.com> 1662396362 +0100	commit: smiley file added
+0daf2c644266c718cdccad1a74f2ff6839deb23e 08034e70ab11dbc3fa97e889fd9b63aee5ba2402 samuel <samuelogunmola4@gmail.com> 1662396545 +0100	commit: prints confused smiley
+08034e70ab11dbc3fa97e889fd9b63aee5ba2402 945c5749da43ca56cc2647ff49664e8ad630f37b samuel <samuelogunmola4@gmail.com> 1662396908 +0100	commit: prints confused smiley
+945c5749da43ca56cc2647ff49664e8ad630f37b 2c7266a0e575a654d6d9cc887f77f9f6fad697f1 samuel <samuelogunmola4@gmail.com> 1662397044 +0100	commit: prints confused smiley
+2c7266a0e575a654d6d9cc887f77f9f6fad697f1 262bfb75694a8ce6943bdaca9ff6afe9d8b42e29 samuel <samuelogunmola4@gmail.com> 1662397140 +0100	commit: prints confused smiley
+262bfb75694a8ce6943bdaca9ff6afe9d8b42e29 852cf592facaffcfdf34ff33e6879f7031801ef7 samuel <samuelogunmola4@gmail.com> 1662398191 +0100	commit: added 2-hellofile
+852cf592facaffcfdf34ff33e6879f7031801ef7 a89d39c6e208ee0af80d5cb9fc53a7331214c30c samuel <samuelogunmola4@gmail.com> 1662398782 +0100	commit: Added 3-twofiles
+a89d39c6e208ee0af80d5cb9fc53a7331214c30c 0c70fcf5bd4acf1a4626f1dc6320a8313da84b14 samuel <samuelogunmola4@gmail.com> 1662399300 +0100	commit: added 4-lastlines
+0c70fcf5bd4acf1a4626f1dc6320a8313da84b14 5ced0bc461ff33852a5867bfa5267ba576956023 samuel <samuelogunmola4@gmail.com> 1662399624 +0100	commit: updated 4-lastlines
+5ced0bc461ff33852a5867bfa5267ba576956023 3e5c895c68c6fd8fa6480eb9ff3f9dd5466cf668 samuel <samuelogunmola4@gmail.com> 1662399832 +0100	commit: Added 5-firstlines
+3e5c895c68c6fd8fa6480eb9ff3f9dd5466cf668 14382f44fd350b78853d7778305ac59f59c561b3 samuel <samuelogunmola4@gmail.com> 1662400054 +0100	commit: updated 5-firstlines
+14382f44fd350b78853d7778305ac59f59c561b3 6a0180b7317e8aa8901c0452d60822ad798225db samuel <samuelogunmola4@gmail.com> 1662401898 +0100	commit: Added 6-third_line
+6a0180b7317e8aa8901c0452d60822ad798225db cc57a5d5d7a041295546159502f1b8adb98cbb41 samuel <samuelogunmola4@gmail.com> 1662404016 +0100	commit: added 7-file
+cc57a5d5d7a041295546159502f1b8adb98cbb41 dd3da6325a7a05c80f94eaccc3983e4816d681ac samuel <samuelogunmola4@gmail.com> 1662404110 +0100	commit: added 7-file
+dd3da6325a7a05c80f94eaccc3983e4816d681ac 7b9f262d02a4a72468984baf93bdf5faf6f1700b samuel <samuelogunmola4@gmail.com> 1662404522 +0100	commit: added 8-cwd_state
+7b9f262d02a4a72468984baf93bdf5faf6f1700b f5b140eb8b95f7057d53175bbb641345f523bb01 samuel <samuelogunmola4@gmail.com> 1662404655 +0100	commit: added 8-cwd_state
+f5b140eb8b95f7057d53175bbb641345f523bb01 f6460cccdd4f209bfc757092584ae4a7915dbafb samuel <samuelogunmola4@gmail.com> 1662404814 +0100	commit: updated 8-cwd_state
+f6460cccdd4f209bfc757092584ae4a7915dbafb 276c0decc78decefb1d9d264519d7b18ca849529 samuel <samuelogunmola4@gmail.com> 1662408721 +0100	commit: added 9-duplicate_last_line
+276c0decc78decefb1d9d264519d7b18ca849529 c8e2986762489d921d3f90bf51658944c83797fc samuel <samuelogunmola4@gmail.com> 1662409170 +0100	commit: updated 9-duplicate_last_line
+c8e2986762489d921d3f90bf51658944c83797fc 8610d3289c4904773052da700ecc2e7f2126f7e0 samuel <samuelogunmola4@gmail.com> 1662409697 +0100	commit: added 10-no_more_js
+8610d3289c4904773052da700ecc2e7f2126f7e0 d9a0c325046536425203386638620499902ca7ea samuel <samuelogunmola4@gmail.com> 1662410271 +0100	commit: added 11-directories
+d9a0c325046536425203386638620499902ca7ea 277e9681ecf0f4a47d2065910eeaf4a2396fb6e2 samuel <samuelogunmola4@gmail.com> 1662410373 +0100	commit: updated 11-directories
+277e9681ecf0f4a47d2065910eeaf4a2396fb6e2 9a159a7e0a60b767ebcd2a32fce001a17a495315 samuel <samuelogunmola4@gmail.com> 1662411354 +0100	commit: added a new file
+9a159a7e0a60b767ebcd2a32fce001a17a495315 10a6d2f9b9aeda79ae8dff55fa17cdcb31979b15 samuel <samuelogunmola4@gmail.com> 1662411811 +0100	commit: added readme
+10a6d2f9b9aeda79ae8dff55fa17cdcb31979b15 d58fa73f4f48581062ef9a5e6e7224aef87aa07d samuel <samuelogunmola4@gmail.com> 1662412161 +0100	commit: added readme
+d58fa73f4f48581062ef9a5e6e7224aef87aa07d 513cfed10bead5b28175cd4d76b195e56e730929 samuel <samuelogunmola4@gmail.com> 1662412283 +0100	commit: added readme
+513cfed10bead5b28175cd4d76b195e56e730929 d71d9d05024f58bf856bad23ec8c8654a2ccff3d samuel <samuelogunmola4@gmail.com> 1662412542 +0100	commit: added readme
+d71d9d05024f58bf856bad23ec8c8654a2ccff3d 486c63f9dd8b48991aafaf340411761941986b56 samuel <samuelogunmola4@gmail.com> 1662413282 +0100	commit: added unique file
+486c63f9dd8b48991aafaf340411761941986b56 c622605c3cf9d50497eb0f20948da3fa7e3a6651 samuel <samuelogunmola4@gmail.com> 1662413521 +0100	commit: findthatword added
+c622605c3cf9d50497eb0f20948da3fa7e3a6651 667d1671598bbbfab153cf6ad8249bcb2c238a67 samuel <samuelogunmola4@gmail.com> 1662413845 +0100	commit: findthatword added
+667d1671598bbbfab153cf6ad8249bcb2c238a67 ef4dd55e7c05ef2317c62537e27f11434438a3fb samuel <samuelogunmola4@gmail.com> 1662414337 +0100	commit: added countthatword
+ef4dd55e7c05ef2317c62537e27f11434438a3fb eaae99a41455ffbd176497e37eca170865aa1921 samuel <samuelogunmola4@gmail.com> 1662414560 +0100	commit: added countthatword
+eaae99a41455ffbd176497e37eca170865aa1921 fd5656c0560d8d5c167e4a7e948c87244ae66ed2 samuel <samuelogunmola4@gmail.com> 1662414899 +0100	commit: Added 16-whatsnext
+fd5656c0560d8d5c167e4a7e948c87244ae66ed2 0022f04277fcee424caaaff2a28eb2da3d1a2fbe samuel <samuelogunmola4@gmail.com> 1662415021 +0100	commit: Added 16-whatsnext
+0022f04277fcee424caaaff2a28eb2da3d1a2fbe 0bfc5fce60edb208aa15464c832dbdd2b7213ce4 samuel <samuelogunmola4@gmail.com> 1662415348 +0100	commit: Added 17-hidethisword
+0bfc5fce60edb208aa15464c832dbdd2b7213ce4 fe47c326f22487e57c38150ca7b1eb2644508091 samuel <samuelogunmola4@gmail.com> 1662415403 +0100	commit: Added 17-hidethisword
+fe47c326f22487e57c38150ca7b1eb2644508091 b80e19c00b5412e59224bf68f56a458bf58cb9b8 samuel <samuelogunmola4@gmail.com> 1662415834 +0100	commit: Added 18-letteronly
+b80e19c00b5412e59224bf68f56a458bf58cb9b8 e62bd4b3b53ed21205fce8b2d69181a172e5e2a5 samuel <samuelogunmola4@gmail.com> 1662416142 +0100	commit: Added 19-AZ
+e62bd4b3b53ed21205fce8b2d69181a172e5e2a5 a430720093dafebbd6d396b8fdc782c39c5e15b2 samuel <samuelogunmola4@gmail.com> 1662416584 +0100	commit: Added 19-AZ
+a430720093dafebbd6d396b8fdc782c39c5e15b2 dd204a8bc9d2ccc287bc059b2b69b904f24587ab samuel <samuelogunmola4@gmail.com> 1662416679 +0100	commit: Added 19-AZ
+dd204a8bc9d2ccc287bc059b2b69b904f24587ab 06e9e77ba5137a8e9a12efb7b69692468742e47c samuel <samuelogunmola4@gmail.com> 1662416930 +0100	commit: Added 21-reverse
+06e9e77ba5137a8e9a12efb7b69692468742e47c 3555c5ff4e6b6e36872916472f83d1ff0c23c200 samuel <samuelogunmola4@gmail.com> 1662417123 +0100	commit: added 20-hiago
+3555c5ff4e6b6e36872916472f83d1ff0c23c200 13735ffff41a25a9f969be4359c5a6dffec7a6e9 samuel <samuelogunmola4@gmail.com> 1662441540 +0100	commit: updated the file
+13735ffff41a25a9f969be4359c5a6dffec7a6e9 9d5858839fb662c43ff8c8c5ba2f116e75736248 samuel <samuelogunmola4@gmail.com> 1662441881 +0100	commit: updated the file
+9d5858839fb662c43ff8c8c5ba2f116e75736248 6bce1df7a4b730b760513fea810e6b3b68ddaa35 samuel <samuelogunmola4@gmail.com> 1662442049 +0100	commit: updated the file
+6bce1df7a4b730b760513fea810e6b3b68ddaa35 6dab64c46bac641738b3c6895377fb9d9681ad64 samuel <samuelogunmola4@gmail.com> 1662442095 +0100	commit: updated the file
+6dab64c46bac641738b3c6895377fb9d9681ad64 8e67280a96a5701a05517a9acd5ccd8dc71b0aec samuel <samuelogunmola4@gmail.com> 1662483748 +0100	commit: Added 0-alias
+8e67280a96a5701a05517a9acd5ccd8dc71b0aec ce6a72f5631346bd12060ea124201a99046a07c4 samuel <samuelogunmola4@gmail.com> 1662483817 +0100	commit: updated 0-alias
+ce6a72f5631346bd12060ea124201a99046a07c4 e0a80d0ff764588e8170117d4ca6d392abca1c8e samuel <samuelogunmola4@gmail.com> 1662483918 +0100	commit: updated 0-alias
+e0a80d0ff764588e8170117d4ca6d392abca1c8e 7938e20a102f9abac9db14fe3f33c4125edaeedb samuel <samuelogunmola4@gmail.com> 1662489874 +0100	commit: updated the file
+7938e20a102f9abac9db14fe3f33c4125edaeedb 439a49be1f13d35034ae42086b824fabcd3deebe samuel <samuelogunmola4@gmail.com> 1662490546 +0100	commit: Added 1-hello_you
+439a49be1f13d35034ae42086b824fabcd3deebe 7938e20a102f9abac9db14fe3f33c4125edaeedb samuel <samuelogunmola4@gmail.com> 1662491879 +0100	reset: moving to HEAD~
+7938e20a102f9abac9db14fe3f33c4125edaeedb e0a80d0ff764588e8170117d4ca6d392abca1c8e samuel <samuelogunmola4@gmail.com> 1662491903 +0100	reset: moving to HEAD~
+e0a80d0ff764588e8170117d4ca6d392abca1c8e a0372bba33bd5e5ca46b89cf6632c5209a0276b8 samuel <samuelogunmola4@gmail.com> 1662491965 +0100	commit: new changes added
