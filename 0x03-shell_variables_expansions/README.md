@@ -1,1 +1,1 @@
-count directory
+prints environment variables
