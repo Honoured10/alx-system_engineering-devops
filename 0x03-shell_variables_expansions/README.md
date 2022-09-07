@@ -1,1 +1,1 @@
-dispalys the result of breath to the power love
+converts a nember to base 10
