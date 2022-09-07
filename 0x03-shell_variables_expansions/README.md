@@ -1,1 +1,1 @@
-converts a nember to base 10
+prints all possible combinations of two letters
