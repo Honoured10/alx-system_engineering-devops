@@ -1,1 +1,1 @@
-prints something
+it works well
