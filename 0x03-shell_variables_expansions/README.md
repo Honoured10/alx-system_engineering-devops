@@ -1,1 +1,1 @@
-creates a global variable
+added 9-divide_and_rule
